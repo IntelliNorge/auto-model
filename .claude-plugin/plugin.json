@@ -1,0 +1,6 @@
+{
+  "name": "auto-model",
+  "version": "0.1.0",
+  "author": { "name": "Thomas Andersen" },
+  "description": "Picks the cheapest model (Haiku, Sonnet or Opus) that fits each prompt; toggle with /auto-model."
+}

@@ -1,0 +1,6 @@
+{
+  "name": "backit-mods",
+  "owner": { "name": "Thomas Andersen" },
+  "description": "Backit's Claude Code mods.",
+  "plugins": [{ "name": "auto-model", "source": "./" }]
+}
