@@ -25,7 +25,7 @@ Innstillingen huskes på tvers av økter. Moden er på som standard.
 Skriv dette i promptfeltet i en Claude Code-økt i terminalen:
 
 ```
-/plugin install auto-model --marketplace Marensius-Andersen/auto-model
+/plugin install auto-model --marketplace IntelliNorge/auto-model
 ```
 
 Svar `y` for å legge til markedsplassen, og velg deretter scope (user anbefales).
